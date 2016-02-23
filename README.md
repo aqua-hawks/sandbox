@@ -8,10 +8,10 @@ Files can be edited online by clicking the `edit` button in the toolbar on the t
 
 Changes are saved by clicking the commit button on the bottom of the edit page.
 
-## Fromating Text
+## Writing Text
 
-File with the file name extension `.md` are shown as formated text files in GitHub. 
-Text is formated using special annotations (markup) in the text. And short introduction can be found [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You may also just edit this 
+Files with the file name extension `.md` are shown as formated text files in GitHub. 
+Text is formated using special annotations (markup) in the text. A short introduction can be found [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You may also just edit this 
 file to see and try how it works. It's really simple and intuitive.
 
 Here are some examples:
